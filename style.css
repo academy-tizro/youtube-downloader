@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'vazir';
+  src: url('Vazir-Bold.ttf') format('truetype');
+}
+.sty {
+  font-family: 'vazir';
+}
